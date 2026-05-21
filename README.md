@@ -1,6 +1,9 @@
 # ULTRAKILL-Additions-I-Want
 Currently, this repository just acts as a main repository for me to list all of my ULTRAKILL mods in one place.
 However, in the future I intend to commit all of the mod's source code as git submodules or something.
+
+If you're here just to get the mods as pre-compiled binaries/dlls/something to just drop into your ULTRAKILL plugins folder, you'll probably have a better experience going through [my Thunderstore page](https://thunderstore.io/c/ultrakill/p/Nyxpiri/), mods uploaded there often have releases on GitHub that aren't up-to-date with each other.
+
 But for now, here's the list of mods!
 
 - [NyxLib](https://github.com/nyxpirientity/ULTRAKILL-NyxLib) - main library used by my mods
